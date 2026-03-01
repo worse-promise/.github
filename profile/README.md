@@ -18,4 +18,4 @@ This is called a Schrödinger+ promise, because it is both success and failure a
 The standard for how a worse promise should look is define in our [specification](https://github.com/worse-promise/spec).
 
 ## Implementation
-The official implementation of Worse Promise/S+ is [node-worse-promise](https://github.com/worse-promise/node-worse-promise), published [to NPM](https://npm.im/worse-promise).
+The official implementation of Worse Promises/S+ is [node-worse-promise](https://github.com/worse-promise/node-worse-promise), published [to NPM](https://npm.im/worse-promise).
