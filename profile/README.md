@@ -19,3 +19,6 @@ The standard for how a worse promise should look is define in our [specification
 
 ## Implementation
 The official implementation of Worse Promises/S+ is [node-worse-promise](https://github.com/worse-promise/node-worse-promise), published [to NPM](https://npm.im/worse-promise).
+
+## Author
+Worse Promises is created by [10x'ly Made](https://github.com/10xly) which creates many more 10x projects and packages. The sole author of all of these is [tj-commits](https://github.com/tj-commits).
