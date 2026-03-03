@@ -12,7 +12,7 @@ Worse Promises/Schrödinger+ is a powerful promise implementation for enterprise
 - promise-like
 - duck typed
 
-This is called a Schrödinger+ promise, because it is both success and failure at the same time, but also even AFTER when it is observed (the "+"). We believe that the cat is both dead and alive even after you open the box, because if it is stuck in superposition forever, there's no chance it dies, because that would be sad if it did. That's why we invented worse promises, to make sure the cat never dies.
+This is called a Schrödinger+ promise, because it is both success and failure at the same time, but also even AFTER when it is observed (the "+"). We believe that the cat is both dead and alive even after you open the box, because if it is stuck in superposition forever, there's no chance it dies, because that would be sad if it did. That's why we invented worse promises, to make sure the cat never dies, because we LOVE cats!!!!
 
 ## Specification
 The standard for how a worse promise should look is define in our [specification](https://github.com/worse-promise/spec).
